@@ -11,7 +11,7 @@ import {
     CS2RarityColor,
     CS2_MIN_SEED,
     CS2_MIN_STICKER_WEAR
-} from "@ianlucas/cs2-lib";
+} from "@kewaiigamerw/cs2-lib";
 import { Buffer } from "buffer";
 import CRC32 from "crc-32";
 import { CEconItemPreviewDataBlock } from "./Protobufs/cstrike15_gcmessages.js";
